@@ -4,7 +4,7 @@ languages:
 - csharp
 products:
 - microsoft-purview
-- azure-databricks
+- azure-databricks(adb)
 ---
 <!-- markdownlint-disable MD033 - HTML rule -->
 ![EAE_Header.png](./assets/img/readme/EAE_Header.png)
